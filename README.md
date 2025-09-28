@@ -16,6 +16,9 @@
 ## 📈 GitHub Stats
 ![Shredhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShredhayaGoel&show_icons=true&theme=radical)
 
+## GitHub Streaks 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShredhayaGoel&theme=radical)
+
 ## 🌟 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShredhayaGoel&layout=compact&theme=radical)
 
