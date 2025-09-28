@@ -19,6 +19,12 @@
 ## 🌟 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShredhayaGoel&layout=compact&theme=radical)
 
+### 🛠️ Languages & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ## 📫 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/shredhaya-goel-3b984b28a)  
 - ✉️ Email: shredhayagoel@gmail.com  
